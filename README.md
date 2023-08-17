@@ -21,7 +21,7 @@ The Vending Machine Application is a Spring Boot application that simulates a ve
 
 ## Setup and Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/motsifane/vending-app.git`
 2. Navigate to the project directory: `cd vending-app`
 3. Build and run the application: `./mvnw spring-boot:run`
 
